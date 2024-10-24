@@ -8,8 +8,8 @@ tags = [
     "Github",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "Github",
+    "Blog",
 ]
 series = ["Github Guide"]
 image = "home.png"
@@ -18,7 +18,11 @@ image = "home.png"
 
 ## 下载Hugo和主题
 
-HUGO中文文档地址：[https://hugo.opendocs.io/](https://hugo.opendocs.io/)
+HUGO中文文档地址：[https://hugo.opendocs.io/](https://hugo.opendocs.io/)  
+
+> [!TIP]
+>
+> 这个文档非常详细，使用方法和文件结构也很清晰。
 
 Hugo Github地址：[https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo)
 
